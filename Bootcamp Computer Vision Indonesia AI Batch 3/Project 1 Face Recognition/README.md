@@ -30,6 +30,7 @@ Dataset [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) used in this
 
 Example predictions
 ![](./assets/predictions.png)
+![](./assets/confusion_matrix.png)
 
 Though this model still have lower accuracy compare to other models, both models still give good predictions (> 90% accuracy)
 
