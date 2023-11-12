@@ -10,12 +10,12 @@ This is a group project 1 in Bootcamp Indonesia AI Computer Vision Batch 3
 6. I Putu Ananta Yogiswara
 
 ## Project Overview
-Face recognition for gender classification can be a good application to be used on security, customer demography, customer experiences, etc. This application can identify gender based on face automaticaly.
+Face recognition for gender classification can be a good application to be used on security, customer demography, customer experiences, etc. This application can identify gender based on face automaticaly. Project timeline is 2 weeks with detailed can be seen [here](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/team/Timeline%20CVB%20Project%201.xlsx)
 
 For this project we do a group research on 3 suggested models as follows
-1. [VGG](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/notebooks/VGG16_VGG19.ipynb) (**Hendra Ronaldi** & **Fathurrahman Hernanda Khasan**)
-2. [GoogLeNet](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/notebooks/GoogleNet.ipynb) (**Hilmy Rahmadani** & **I Putu Ananta Yogiswara**)
-3. [Resnet](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/notebooks/ResNet50.ipynb) (**Fitrah Ramadhan Reza** & **Harrison**)
+1. [VGG](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/personal/VGG16_VGG19.ipynb) (**Hendra Ronaldi** & **Fathurrahman Hernanda Khasan**)
+2. [GoogLeNet](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/team/GoogleNet.ipynb) (**Hilmy Rahmadani** & **I Putu Ananta Yogiswara**)
+3. [Resnet](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/team/ResNet50.ipynb) (**Fitrah Ramadhan Reza** & **Harrison**)
 
 Notes: 
 `This repository will be focused on research on VGG model because of my part`
@@ -33,6 +33,10 @@ Example predictions
 ![](./assets/confusion_matrix.png)
 
 Though this model still have lower accuracy compare to other models, both models still give good predictions (> 90% accuracy)
+
+## Team Experiment Results
+![](./assets/model_comparison.png)
+**GoogLeNet** gives the best accuracy on data test **97%** and smallest weight size **95 MB**
 
 ## Dependencies
 
