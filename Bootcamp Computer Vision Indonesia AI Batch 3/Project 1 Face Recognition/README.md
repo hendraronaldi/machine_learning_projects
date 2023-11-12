@@ -38,6 +38,8 @@ Though this model still have lower accuracy compare to other models, both models
 ![](./assets/model_comparison.png)
 **GoogLeNet** gives the best accuracy on data test **97%** and smallest weight size **95 MB**
 
+Team experiment detail result can be seen [here](https://github.com/hendraronaldi/machine_learning_projects/blob/main/Bootcamp%20Computer%20Vision%20Indonesia%20AI%20Batch%203/Project%201%20Face%20Recognition/team/Group%20Presentation.pdf) in presentation file
+
 ## Dependencies
 
 This project requires **Python 3** and the following Python libraries installed:
