@@ -38,17 +38,21 @@ Dataset [COCO-2017](https://docs.voxel51.com/user_guide/dataset_zoo/datasets.htm
 The experiments on Faster R-CNN using these 2 backbones were not achieve good result with very low mAP, tends to predict multiple detection on single ground-truth detections, also took very long time training with 2 to 2.5 hours approximately for only 5 epochs.
 
 Classification Report
+
 ![](./assets/precision_recall.png)
 
 PR Curve
+
 ![](./assets/pr_curve.png)
 
 **Example predictions Inception v3**
 
 No Threshold
+
 ![](./assets/no_threshold.png)
 
 0.5 Confidence Threshold
+
 ![](./assets/50_threshold.png)
 
 ## Dependencies
