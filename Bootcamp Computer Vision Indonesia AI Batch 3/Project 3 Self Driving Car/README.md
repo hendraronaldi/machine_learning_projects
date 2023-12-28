@@ -1,4 +1,4 @@
-# Project 2 Self Driving Car
+# Project 3 Self Driving Car
 This is a group project for semantic segmentation topic in Bootcamp Indonesia AI Computer Vision Batch 3
 
 ## Our group member:
